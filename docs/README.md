@@ -4,7 +4,7 @@ Welcome to OctoAcme's project management documentation hub! This README provides
 
 ## Project Management Process Summary
 
-**OctoAcme follows a structured, iterative project lifecycle** that guides work from initial idea through delivery and continuous improvement. Projects begin with a formal **Initiation** phase, where a lightweight Project One-pager captures the problem statement, goals, success metrics, stakeholders, and initial risks. Once stakeholders align and a go/no-go decision is made, the project moves into **Planning**, where work is broken into shippable increments, a prioritized backlog with acceptance criteria is created, and a release plan with milestones is defined. This phased approach—Initiation → Planning → Execution → Release → Close &amp; Retrospective—ensures that every project has clear authorization, scope, and measurable outcomes before development begins.
+**OctoAcme follows a structured, iterative project lifecycle** that guides work from initial idea through delivery and continuous improvement. Projects begin with a formal **Initiation** phase, where a lightweight Project One-pager captures the problem statement, goals, success metrics, stakeholders, and initial risks. Once stakeholders align and a go/no-go decision is made, the project moves into **Planning**, where work is broken into shippable increments, a prioritized backlog with acceptance criteria is created, and a release plan with milestones is defined. This phased approach—Initiation → Planning → Execution → Release → Close & Retrospective—ensures that every project has clear authorization, scope, and measurable outcomes before development begins.
 
 **Day-to-day execution is driven by a well-defined team rhythm and workflow conventions.** Teams hold daily 15-minute standups focused on progress, blockers, and dependencies, supplemented by weekly delivery syncs and end-of-sprint demos. Work is tracked on a project board (e.g., GitHub Projects) with columns from Backlog through Done. Pull requests are kept small (≤400 lines), must reference an issue and acceptance criteria, pass automated CI checks (tests, linting, security scanning), and require at least one approval before merging. Velocity, burndown, and key observability dashboards are monitored to keep delivery on track, and a tiered blocker escalation path—from team-level triage up to sponsor-level intervention—ensures issues are resolved quickly.
 
@@ -17,8 +17,8 @@ Welcome to OctoAcme's project management documentation hub! This README provides
 - [Project Management Overview](octoacme-project-management-overview.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
-- [Execution &amp; Tracking](octoacme-execution-and-tracking.md)
-- [Risk Management &amp; Communication](octoacme-risks-and-communication.md)
-- [Release &amp; Deployment Guide](octoacme-release-and-deployment.md)
-- [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles &amp; Personas](octoacme-roles-and-personas.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
